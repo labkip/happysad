@@ -1,4 +1,4 @@
-Country,Happiness %,Stress %
+country,percent_happiness,percent_stress
 Afghanistan,53,33
 Albania,49,68
 Argentina,42,79
